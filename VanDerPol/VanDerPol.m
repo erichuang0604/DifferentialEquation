@@ -1,3 +1,4 @@
+%http://www.sharetechnote.com/html/Octave_Matlab_DifferentialEquation.html#Ode45_Vander_Pol_Oscillator
 %Save the following contents in a .m file and run the .m file
 mu = 1;
 k = 1;
